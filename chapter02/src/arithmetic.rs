@@ -45,7 +45,7 @@ pub fn overflow() {
 #[allow(dead_code)]
 pub fn ignore_overflow() {
     let x: u8 = 100;
-    let y: u8 = 200;
+    let y: u8 = 255;
     let result = x.wrapping_add(y);
     println!("{} + {} = {}" , x , y , result);
 }
@@ -83,6 +83,7 @@ pub fn return_max_overflow() {
     let result = x.saturating_add(y);
     if result == u8::MAX {
         println!("オーバーフローしました");
+        println!("{}", result);
     }else{
         println!("{} + {} = {}" , x , y , result);
     }
