@@ -1,0 +1,16 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/redis-e3c470aaed015cbc.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/macros.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/pipeline.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio/tokio.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/client.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/cmd.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/commands.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/connection.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/parser.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/script.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/types.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/redis-e3c470aaed015cbc.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/macros.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/pipeline.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio/tokio.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/client.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/cmd.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/commands.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/connection.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/parser.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/script.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/types.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/macros.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/pipeline.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/aio/tokio.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/client.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/cmd.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/commands.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/connection.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/parser.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/script.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/redis-0.21.7/src/types.rs:

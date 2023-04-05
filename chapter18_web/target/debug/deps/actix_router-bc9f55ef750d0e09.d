@@ -1,0 +1,13 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/actix_router-bc9f55ef750d0e09.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/actix_router-bc9f55ef750d0e09.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs:

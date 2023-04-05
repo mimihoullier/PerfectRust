@@ -1,0 +1,8 @@
+/Users/mimi/rust/PerfectRust/chapter18_lib/target/debug/build/futures-task-be6554f8f3188fca/build_script_build-be6554f8f3188fca: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/build.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/no_atomic_cas.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_lib/target/debug/build/futures-task-be6554f8f3188fca/build_script_build-be6554f8f3188fca.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/build.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/no_atomic_cas.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/build.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/no_atomic_cas.rs:
+
+# env-dep:CARGO_PKG_NAME=futures-task

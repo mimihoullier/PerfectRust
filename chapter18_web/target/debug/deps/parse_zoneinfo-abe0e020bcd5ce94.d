@@ -1,0 +1,11 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/parse_zoneinfo-abe0e020bcd5ce94.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/libparse_zoneinfo-abe0e020bcd5ce94.rlib: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/parse_zoneinfo-abe0e020bcd5ce94.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs:

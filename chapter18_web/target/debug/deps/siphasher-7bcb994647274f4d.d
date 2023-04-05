@@ -1,0 +1,7 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/siphasher-7bcb994647274f4d.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/siphasher-7bcb994647274f4d.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/siphasher-0.3.10/src/sip128.rs:

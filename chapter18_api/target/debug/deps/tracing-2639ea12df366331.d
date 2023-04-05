@@ -1,0 +1,13 @@
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/tracing-2639ea12df366331.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/tracing-2639ea12df366331.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs:

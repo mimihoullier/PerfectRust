@@ -1,0 +1,10 @@
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/alloc_no_stdlib-73591462a6ad35a9.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/alloc_no_stdlib-73591462a6ad35a9.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs:

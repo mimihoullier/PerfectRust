@@ -1,0 +1,11 @@
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/tokio_rustls-4bc30dd88daabf25.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/libtokio_rustls-4bc30dd88daabf25.rlib: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_api/target/debug/deps/tokio_rustls-4bc30dd88daabf25.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/client.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/mod.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/common/handshake.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.23.4/src/server.rs:

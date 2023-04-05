@@ -1,0 +1,13 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/chapter18_web-fb656ebf9fda6746.rmeta: src/lib.rs src/handler/mod.rs src/handler/authenticate.rs src/handler/search.rs src/handler/register.rs src/handler/web_jwt.rs src/handler/view_helper.rs src/handler/error.rs src/handler/menu_error.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/chapter18_web-fb656ebf9fda6746.d: src/lib.rs src/handler/mod.rs src/handler/authenticate.rs src/handler/search.rs src/handler/register.rs src/handler/web_jwt.rs src/handler/view_helper.rs src/handler/error.rs src/handler/menu_error.rs
+
+src/lib.rs:
+src/handler/mod.rs:
+src/handler/authenticate.rs:
+src/handler/search.rs:
+src/handler/register.rs:
+src/handler/web_jwt.rs:
+src/handler/view_helper.rs:
+src/handler/error.rs:
+src/handler/menu_error.rs:

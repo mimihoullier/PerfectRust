@@ -1,0 +1,15 @@
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/bstr-b069476e3fe8131a.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ascii.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstr.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstring.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/scalar.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_slice.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_vec.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/impls.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/io.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/utf8.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_web/target/debug/deps/bstr-b069476e3fe8131a.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ascii.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstr.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstring.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/scalar.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_slice.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_vec.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/impls.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/io.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/utf8.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ascii.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstr.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/bstring.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/mod.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/byteset/scalar.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_slice.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/ext_vec.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/impls.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/io.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-1.1.0/src/utf8.rs:

@@ -1,0 +1,11 @@
+/Users/mimi/rust/PerfectRust/chapter18_lib/target/debug/deps/parking_lot_core-e25df93a8d1c7b3f.rmeta: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/parking_lot.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/spinwait.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/util.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/word_lock.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/unix.rs
+
+/Users/mimi/rust/PerfectRust/chapter18_lib/target/debug/deps/parking_lot_core-e25df93a8d1c7b3f.d: /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/lib.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/parking_lot.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/spinwait.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/mod.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/util.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/word_lock.rs /Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/unix.rs
+
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/lib.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/parking_lot.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/spinwait.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/mod.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/util.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/word_lock.rs:
+/Users/mimi/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.6/src/thread_parker/unix.rs:
