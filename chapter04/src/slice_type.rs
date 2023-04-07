@@ -100,7 +100,7 @@ pub fn methods_3(){
     println!("iter()    = {:?}" , it);
     let v = slice.to_vec(); // ベクタを返す
     println!("to_vec()  = {:?}" , v);
-    let array = [100 , 101 , 102 , 103 , 104];
+    let array = [99, 100 , 101 , 102 , 103 , 104];
     let slice: &[i32] = &array[..];
     // 4の倍数要素を除外したサブスライスのイテレータを返す
     let spts = slice.split(|value|{

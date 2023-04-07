@@ -17,7 +17,7 @@ pub fn char_literal() {
 /// #### リスト4-11 文字型の定数
 #[allow(dead_code)]
 pub fn char_constant(){
-    println!("MAX = {}" , char::MAX);
+    println!("MAX = {:?}" , char::MAX);
     println!("UNICODE_VERSION = {:?}" , char::UNICODE_VERSION);
 }
 

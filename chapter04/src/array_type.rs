@@ -9,7 +9,7 @@
 pub fn declare() {
     let array_a  = [1 , 2 , 3];    // 初期値のみ指定
     let array_b: [i32 ; 3] = [10 , 20 , 30]; // 型、要素数を指定
-    let array_c = [0 ; 3]; // 初期値と要素数を指定
+    let array_c = [100 ; 3]; // 初期値と要素数を指定
     println!("array_a = {:?}" , array_a);
     println!("array_b = {:?}" , array_b);
     println!("array_c = {:?}" , array_c);

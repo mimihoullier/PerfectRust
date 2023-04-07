@@ -46,7 +46,7 @@ pub fn methods_2(){
     let str_value = "山田太郎";
     let result = str_value.contains("田"); // 指定された文字列が含まれているか
     println!("contains() = {:?}" , result);  
-    let result = str_value.find("田");// 指定された文字列の位置を返す
+    let result = str_value.find("郎");// 指定された文字列の位置を返す。日本語はマルチバイトだから3バイトおき
     println!("find() = {:?}" , result);
     let str_value = "sample.txt";
     let result = str_value.ends_with(".txt"); // 文字列の終わりが指定された文字列と一致するか
@@ -63,6 +63,7 @@ pub fn methods_2(){
 pub fn methods_3(){
     let str_value = "ABC\r\nDEF\r\nXYZ\r\n";
     let result = str_value.lines();// 改行単位で文字列を取得する
+    println!("{:?}", result);
     for row in result {
         println!("lines() = {:?}" , row);
     }
